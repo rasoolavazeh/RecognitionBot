@@ -15,7 +15,7 @@ public class RecognizerBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "2031500557:AAEzCqHJVCLDUELNRFkIBUQRy31nMC70w3A";
+        return "token";
     }
 
     @Override
