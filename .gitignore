@@ -1,3 +1,8 @@
 *.iws
-workspace.xml
-tasks.xml
+
+# idea ignores
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
